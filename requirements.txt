@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain_community
+langchain_groq
+dotenv
+pydantic
+langchain_core
+google
